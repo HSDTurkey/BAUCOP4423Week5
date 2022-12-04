@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BAUWeek5</string>
+
+    <string name="upload_image">UPLOAD IMAGE</string>
+    <string name="full_name">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="password">Password</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="agreement">I agree to the Company Software Agreement</string>
+    <string name="update">UPDATE</string>
+
+</resources>
